@@ -4,7 +4,7 @@
 * Single badge display
 * Dual badge display
 
-See instructions below for 
+See instructions below for more information.
 
 ## Gallery
 
