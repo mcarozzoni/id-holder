@@ -16,5 +16,6 @@ See instructions below for
 
 Using Cura:
 
-|Setting|Value|
-|-|-|
+| Setting | Value |
+| - | - |
+| 1 | 2|
